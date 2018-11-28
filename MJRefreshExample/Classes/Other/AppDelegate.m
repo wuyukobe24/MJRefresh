@@ -18,8 +18,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     return YES;
-    //fork_wang
-    //fork_wang222
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
