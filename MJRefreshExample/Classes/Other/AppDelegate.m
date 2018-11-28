@@ -19,6 +19,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     //mjrefresh
     return YES;
+    //fork_wang
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
